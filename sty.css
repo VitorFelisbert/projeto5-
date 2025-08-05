@@ -1,0 +1,33 @@
+
+.img{
+    width: 180px;
+    height: 14%;
+   margin-top: 150px;
+   margin-left: 10%;
+
+   
+}
+
+.area{
+    color:white;
+    text-align: justify;
+     margin-left: 10%;
+    /* margin-top: 20%; 
+    margin-right: -100%;
+ */
+
+
+
+
+}
+
+.cabe{
+    background-color: rgb(19, 18, 18);
+    
+}
+
+
+.cap{
+    color:white;
+    background-color: rgb(19, 18, 18);
+}
